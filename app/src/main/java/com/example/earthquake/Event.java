@@ -1,7 +1,5 @@
 package com.example.earthquake;
 
-import java.net.URL;
-
 public class Event {
 
     protected double magnitude;
